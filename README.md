@@ -1,1 +1,1 @@
-## Pratica do dos projetos do curso Origamid.
+## Pratica dos projetos do curso Origamid.
